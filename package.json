@@ -1,0 +1,32 @@
+{
+  "name": "poly2geojson",
+  "version": "0.0.0",
+  "description": "Convert Osmosis polygon filter file to GeoJSON polygon.",
+  "author": {
+    "name": "Damian Krzeminski",
+    "email": "pirxpilot@code42day.com",
+    "url": "https://code42day.com"
+  },
+  "repository": "code42day/poly2geojson",
+  "license": "MIT",
+  "keywords": [
+    "poly2geojson",
+    "poly",
+    "geojson",
+    "osmosis",
+    "osm"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "^2.9.4",
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
