@@ -29,7 +29,7 @@ fs.createReadStream('area.poly')
 
 ## License
 
-MIT © [Damian Krzeminski](https://code42day.com)
+MIT © [Damian Krzeminski](https://pirxpilot.me)
 
 [poly-file]: http://wiki.openstreetmap.org/wiki/Osmosis/Polygon_Filter_File_Format
 [GeoJSON polygon]: http://geojson.org/geojson-spec.html#polygon
@@ -37,8 +37,8 @@ MIT © [Damian Krzeminski](https://code42day.com)
 [npm-image]: https://img.shields.io/npm/v/poly2geojson.svg
 [npm-url]: https://npmjs.org/package/poly2geojson
 
-[travis-url]: https://travis-ci.org/code42day/poly2geojson
-[travis-image]: https://img.shields.io/travis/code42day/poly2geojson.svg
+[travis-url]: https://travis-ci.org/pirxpilot/poly2geojson
+[travis-image]: https://img.shields.io/travis/pirxpilot/poly2geojson.svg
 
-[gemnasium-image]: https://img.shields.io/gemnasium/code42day/poly2geojson.svg
-[gemnasium-url]: https://gemnasium.com/code42day/poly2geojson
+[gemnasium-image]: https://img.shields.io/gemnasium/pirxpilot/poly2geojson.svg
+[gemnasium-url]: https://gemnasium.com/pirxpilot/poly2geojson

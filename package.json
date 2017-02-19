@@ -4,10 +4,10 @@
   "description": "Convert Osmosis polygon filter file to GeoJSON polygon.",
   "author": {
     "name": "Damian Krzeminski",
-    "email": "pirxpilot@code42day.com",
-    "url": "https://code42day.com"
+    "email": "pirxpilot@furkot.com",
+    "url": "https://pirxpilot.me"
   },
-  "repository": "code42day/poly2geojson",
+  "repository": "pirxpilot/poly2geojson",
   "license": "MIT",
   "keywords": [
     "poly2geojson",
