@@ -17,9 +17,8 @@
     "osm"
   ],
   "devDependencies": {
-    "jshint": "^2.9.4",
-    "mocha": "^3.2.0",
-    "should": "^11.1.2",
+    "@pirxpilot/jshint": "~3",
+    "should": "~13",
     "split": "^1.0.0"
   },
   "scripts": {
