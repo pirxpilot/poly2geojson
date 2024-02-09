@@ -1,6 +1,6 @@
 {
   "name": "poly2geojson",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Convert Osmosis polygon filter file to GeoJSON polygon.",
   "author": {
     "name": "Damian Krzeminski",
