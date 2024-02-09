@@ -4,11 +4,11 @@
   "eqnull": true,
   "immed": true,
   "latedef": "nofunc",
-  "mocha" : true,
   "newcap": true,
   "noarg": true,
   "node": true,
   "sub": true,
   "undef": true,
-  "unused": true
+  "unused": true,
+  "esversion": 11
 }

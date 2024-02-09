@@ -1,9 +1,10 @@
+var { describe, it } = require('node:test');
 var fs = require('fs');
 var split = require('split');
 var poly2geojson = require('../');
 
 describe('poly2geojson', function () {
-  it('should parse poly file with single ring', function (done) {
+  it('should parse poly file with single ring', function (_, done) {
     var ref = require('./fixtures/china.json');
 
     fs.createReadStream(__dirname + '/fixtures/china.poly')
@@ -23,7 +24,7 @@ describe('poly2geojson', function () {
       });
   });
 
-  it('should parse poly file with multiple rings', function (done) {
+  it('should parse poly file with multiple rings', function (_, done) {
     var ref = require('./fixtures/australia.json');
 
     fs.createReadStream(__dirname + '/fixtures/australia.poly')
